@@ -19,20 +19,30 @@
 
 </div>
 -->
-<br>
-<div align="center" style="text-align:center">
-<h3 align="center">✨ Top Langs ✨</h3>
+ <h3 align="center">🛠 Tools 🛠</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat-square&logo=intellij%20idea&logoColor=white"/>
+ <br>
+</p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeesuYeo&layout=compact&show_icons=true&theme=onedark)](https://github.com/HeesuYeo/github-readme-stats)
+ 
+<br><h3 align="center">✨ Top Langs ✨</h3>
+<div align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeesuYeo&layout=compact&show_icons=true&theme=onedark)](https://github.com/HeesuYeo/github-readme-stats)
 
 </div>
+
  <!-- 
 <div align="center" style="text-align:center">
 <h3 align="center">✨ Boj Tier ✨</h3>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmltnwkd123)](https://solved.ac/gmltnwkd123/)
 </div>
 -->
+
 <h3 align="center">✨ Blog ✨</h3>
 
 <div align="center" style="text-align:center">
@@ -41,7 +51,6 @@
 </div>
   
 <br>
-
 
 <h3 align="center"> ✨ Me ✨ </h3>
 <p align="center">
