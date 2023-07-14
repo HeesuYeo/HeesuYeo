@@ -38,7 +38,7 @@
 <h3 align="center"> ✨ Me ✨ </h3>
 <p align="center">
   <a href="https://velog.io/@hxe_y"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hxe_y"/></a>
-<a href="yhs203203@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="https://yhs203203@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 	
 <br><h3 align="center">✨ Top Langs ✨</h3>
 <div align="center">
